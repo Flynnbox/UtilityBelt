@@ -4,7 +4,7 @@ using System.Globalization;
 using System.Text.RegularExpressions;
 using System.Web.Configuration;
 
-namespace Ihi.Offerings.Mobile.EventsApi.Formatters
+namespace UtilityBelt
 {
   public class HtmlContentParser
   {

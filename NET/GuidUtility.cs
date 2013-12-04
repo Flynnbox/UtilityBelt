@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.RegularExpressions;
 
-namespace Ihi.Common.Utility
+namespace UtilityBelt
 {
 	public static class GuidUtility
 	{

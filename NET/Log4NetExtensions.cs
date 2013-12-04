@@ -1,7 +1,7 @@
 ﻿using System;
 using log4net;
 
-namespace Ihi.Common.Utility.Utility
+namespace UtilityBelt
 {
   public static class Log4NetExtensions
   {

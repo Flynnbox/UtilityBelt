@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using System.Web.Configuration;
 
-namespace Ihi.Offerings.Mobile.EventsApi.Formatters
+namespace UtilityBelt
 {
   public class UrlContentParser
   {

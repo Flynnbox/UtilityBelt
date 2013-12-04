@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Threading;
 using log4net;
 
-namespace Ihi.Common.Utility.DataAccess
+namespace UtilityBelt
 {
 	public class DatabaseRetryProvider
 	{

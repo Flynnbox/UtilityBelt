@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Threading;
 
-namespace Ihi.Common.Utility.Utility
+namespace UtilityBelt
 {
 	public static class DebugProfiler
 	{

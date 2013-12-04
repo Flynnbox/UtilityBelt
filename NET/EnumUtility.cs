@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Reflection;
 
-namespace Ihi.Common.Utility
+namespace UtilityBelt
 {
 	public static class EnumUtility
 	{
